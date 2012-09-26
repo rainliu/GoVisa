@@ -1,2 +1,2 @@
-gohevc
+GoHEVC Analyzer
 ======

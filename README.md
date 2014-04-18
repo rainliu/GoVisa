@@ -1,4 +1,4 @@
-GoHEVC
+GoVisa
 =======
 
 H.265/HEVC Bitstream Analyzer in Go
